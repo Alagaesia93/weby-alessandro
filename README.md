@@ -29,6 +29,10 @@ TODOs / Suggestions:
 
 - at the end of the first chapter config.ru had some available changes with map /welcome. If you change to that, the first steps won't work.
 
+## Fourth chapter - Controllers
+
+Super easy to follow and understand, nothing to add
+
 ## General / Open questions
 
 - Awesome course, I really enjoyed it, well done!

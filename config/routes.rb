@@ -5,7 +5,7 @@ Router.draw do
     "ENV: #{env.keys.sort.join(', ')} <br/><br/> Foo"
   end
 
-  get('/articles') { 'All Articles' }
+  get('/articles/index')
   
   get('/articles/1') { "First Article" }
 end
